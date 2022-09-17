@@ -18,7 +18,6 @@ h2 {
 }
 
 .container {
-  outline: 3px solid orange;
   height: 600px;
   width: 400px;
   margin: 25% auto;
